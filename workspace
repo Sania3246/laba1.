@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="ChangeListManager">
+
+<list name="Changes" comment="" id="cb6be6b4-563e-4499-bb56-c2b53c31f241" default="true"/>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+
+-<component name="FileTemplateManagerImpl">
+
+
+-<option name="RECENT_TEMPLATES">
+
+
+-<list>
+
+<option value="Class"/>
+
+</list>
+
+</option>
+
+</component>
+
+<component name="ProjectId" id="1yYTM2rSV2k6PfOnhrDBNbaS6Py"/>
+
+
+-<component name="ProjectView">
+
+
+-<navigator version="1" splitterProportion="0.5" proportions="" currentView="ProjectPane">
+
+<flattenPackages/>
+
+<showMembers/>
+
+<showModules/>
+
+<showLibraryContents/>
+
+<hideEmptyPackages/>
+
+<abbreviatePackageNames/>
+
+<autoscrollToSource/>
+
+<autoscrollFromSource/>
+
+<sortByType/>
+
+</navigator>
+
+
+-<panes>
+
+<pane id="Scope"/>
+
+<pane id="PackagesPane"/>
+
+
+-<pane id="ProjectPane">
+
+
+-<subPane>
+
+
+-<PATH>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="untitled104"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+
+</PATH_ELEMENT>
+
+</PATH>
+
+
+-<PATH>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="untitled104"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+
+</PATH_ELEMENT>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="untitled104"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+
+</PATH_ELEMENT>
+
+</PATH>
+
+
+-<PATH>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="untitled104"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+
+</PATH_ELEMENT>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="untitled104"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+
+</PATH_ELEMENT>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="src"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+
+</PATH_ELEMENT>
+
+
+-<PATH_ELEMENT>
+
+<option name="myItemId" value="company"/>
+
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+
+</PATH_ELEMENT>
+
+</PATH>
+
+</subPane>
+
+</pane>
+
+</panes>
+
+</component>
+
+
+-<component name="ProjectViewState">
+
+<option name="hideEmptyMiddlePackages" value="true"/>
+
+<option name="showLibraryContents" value="true"/>
+
+</component>
+
+
+-<component name="PropertiesComponent">
+
+<property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab1_Java"/>
+
+</component>
+
+
+-<component name="RunManager">
+
+
+-<configuration name="Main" temporary="true" factoryName="Application" type="Application">
+
+<option name="MAIN_CLASS_NAME" value="com.company.Main"/>
+
+<module name="untitled104"/>
+
+<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$"/>
+
+<RunnerSettings RunnerId="Run"/>
+
+<ConfigurationWrapper RunnerId="Run"/>
+
+
+-<method v="2">
+
+<option name="Make" enabled="true"/>
+
+</method>
+
+</configuration>
+
+
+-<recent_temporary>
+
+
+-<list>
+
+<item itemvalue="Application.Main"/>
+
+</list>
+
+</recent_temporary>
+
+</component>
+
+<component name="SpellCheckerSettings" transferred="true" UseSingleDictionary="true" DefaultDictionary="application-level" CustomDictionaries="0" Folders="0" RuntimeDictionaries="0"/>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Changes" comment="" id="cb6be6b4-563e-4499-bb56-c2b53c31f241"/>
+
+<created>1632427471653</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1632427471653</updated>
+
+</task>
+
+<servers/>
+
+</component>
+
+</project>
