@@ -1,0 +1,27 @@
+Автор, количество страниц, тираж, год издания. Вывести даные о книгах, в которых количество страниц больше 150.
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="EntryPointsManager">
+
+<entry_points version="2.0"/>
+
+</component>
+
+
+-<component name="ProjectKey">
+
+<option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470"/>
+
+</component>
+
+
+-<component version="2" name="ProjectRootManager" project-jdk-type="JavaSDK" project-jdk-name="openjdk-16" default="true" languageLevel="JDK_16">
+
+<output url="file://$PROJECT_DIR$/out"/>
+
+</component>
+
+</project>
